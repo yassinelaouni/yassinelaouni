@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinelaouni&show_icons=true&locale=en" alt="yassinelaouni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinelaouni&" alt="yassinelaouni" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinelaouni&show_icons=true&locale=en" alt="yassinelaouni" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinelaouni&" alt="yassinelaouni" /></p>
